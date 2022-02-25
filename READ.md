@@ -122,7 +122,7 @@ position 속성
 :--:|:--:|:--:
 static | 기준 없음 | O
 relative | 요소 자신 | X
-relative | 위치상 부모 요소 | X
+absoulte | 위치상 부모 요소 | X
 fixed | 뷰포트 | X
 
 
